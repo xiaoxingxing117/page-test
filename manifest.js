@@ -90,7 +90,7 @@
 /******/ 	__webpack_require__.c = installedModules;
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/kukp/";
+/******/ 	__webpack_require__.p = "/page-test/";
 /******/ })
 /************************************************************************/
 /******/ ([]);

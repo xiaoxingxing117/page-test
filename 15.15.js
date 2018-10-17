@@ -7017,7 +7017,7 @@ webpackJsonp([15,39],{
 	                                            } },
 	                                        isChecked ? _react2["default"].createElement('i', { className: 'icon icon-check-pic-true' }) : _react2["default"].createElement('i', { className: 'icon icon-check-pic-false' })
 	                                    ),
-	                                    _react2["default"].createElement('img', { className: 'human-img', src: faceUrl || __webpack_require__(1611) }),
+	                                    _react2["default"].createElement('img', { className: 'human-img', src: faceUrl || __webpack_require__(1129) }),
 	                                    _react2["default"].createElement(
 	                                        'div',
 	                                        { className: 'human-name', title: personName },
@@ -12498,7 +12498,7 @@ webpackJsonp([15,39],{
 
 /***/ }),
 
-/***/ 1611:
+/***/ 1129:
 /***/ (function(module, exports, __webpack_require__) {
 
 	module.exports = __webpack_require__.p + "images/noface.16fd8bf930be74c7148c7f8c343833d0.jpg";

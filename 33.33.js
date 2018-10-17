@@ -1,6 +1,6 @@
 webpackJsonp([33,39],{
 
-/***/ 1261:
+/***/ 1264:
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -36,7 +36,7 @@ webpackJsonp([33,39],{
 	        var _this = _possibleConstructorReturn(this, (App.__proto__ || Object.getPrototypeOf(App)).call(this, props));
 	
 	        _this.Template = (0, _loader2["default"])(function (a) {
-	            return __webpack_require__.e/* require */(34, function(__webpack_require__) { var __WEBPACK_AMD_REQUIRE_ARRAY__ = [__webpack_require__(1262)("./" + props.params.type)]; (a.apply(null, __WEBPACK_AMD_REQUIRE_ARRAY__));}.bind(this));
+	            return __webpack_require__.e/* require */(34, function(__webpack_require__) { var __WEBPACK_AMD_REQUIRE_ARRAY__ = [__webpack_require__(1265)("./" + props.params.type)]; (a.apply(null, __WEBPACK_AMD_REQUIRE_ARRAY__));}.bind(this));
 	        });
 	        return _this;
 	    }

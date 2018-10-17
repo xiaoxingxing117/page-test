@@ -1553,7 +1553,7 @@ webpackJsonp([34,39],{
 
 /***/ }),
 
-/***/ 1184:
+/***/ 1185:
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -1564,7 +1564,7 @@ webpackJsonp([34,39],{
 	
 	__webpack_require__(398);
 	
-	var _base = __webpack_require__(1185);
+	var _base = __webpack_require__(1186);
 	
 	var _base2 = _interopRequireDefault(_base);
 	
@@ -1731,7 +1731,7 @@ webpackJsonp([34,39],{
 
 /***/ }),
 
-/***/ 1185:
+/***/ 1186:
 /***/ (function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_RESULT__;/* WEBPACK VAR INJECTION */(function(module, global) {/*! http://mths.be/base64 v0.1.0 by @mathias | MIT license */
@@ -1902,16 +1902,16 @@ webpackJsonp([34,39],{
 
 /***/ }),
 
-/***/ 1262:
+/***/ 1265:
 /***/ (function(module, exports, __webpack_require__) {
 
 	var map = {
-		"./bodySearch": 1263,
-		"./bodySearch.js": 1263,
-		"./personSearch": 1278,
-		"./personSearch.js": 1278,
-		"./searchRecord": 1279,
-		"./searchRecord.js": 1279
+		"./bodySearch": 1266,
+		"./bodySearch.js": 1266,
+		"./personSearch": 1281,
+		"./personSearch.js": 1281,
+		"./searchRecord": 1282,
+		"./searchRecord.js": 1282
 	};
 	function webpackContext(req) {
 		return __webpack_require__(webpackContextResolve(req));
@@ -1924,12 +1924,12 @@ webpackJsonp([34,39],{
 	};
 	webpackContext.resolve = webpackContextResolve;
 	module.exports = webpackContext;
-	webpackContext.id = 1262;
+	webpackContext.id = 1265;
 
 
 /***/ }),
 
-/***/ 1263:
+/***/ 1266:
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -1950,11 +1950,11 @@ webpackJsonp([34,39],{
 	
 	var _http2 = _interopRequireDefault(_http);
 	
-	var _abstract_class_picture = __webpack_require__(1264);
+	var _abstract_class_picture = __webpack_require__(1267);
 	
 	var _abstract_class_picture2 = _interopRequireDefault(_abstract_class_picture);
 	
-	var _viewData = __webpack_require__(1266);
+	var _viewData = __webpack_require__(1269);
 	
 	var _viewData2 = _interopRequireDefault(_viewData);
 	
@@ -1962,15 +1962,15 @@ webpackJsonp([34,39],{
 	
 	var _imageView2 = _interopRequireDefault(_imageView);
 	
-	var _listSlide = __webpack_require__(1275);
+	var _listSlide = __webpack_require__(1278);
 	
 	var _listSlide2 = _interopRequireDefault(_listSlide);
 	
 	var _tool = __webpack_require__(896);
 	
-	__webpack_require__(1277);
+	__webpack_require__(1280);
 	
-	var _btools = __webpack_require__(1184);
+	var _btools = __webpack_require__(1185);
 	
 	var _btools2 = _interopRequireDefault(_btools);
 	
@@ -2195,7 +2195,7 @@ webpackJsonp([34,39],{
 
 /***/ }),
 
-/***/ 1264:
+/***/ 1267:
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -2236,7 +2236,7 @@ webpackJsonp([34,39],{
 	
 	var _casedoc = __webpack_require__(911);
 	
-	__webpack_require__(1265);
+	__webpack_require__(1268);
 	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 	
@@ -2533,14 +2533,14 @@ webpackJsonp([34,39],{
 
 /***/ }),
 
-/***/ 1265:
+/***/ 1268:
 /***/ (function(module, exports) {
 
 	// removed by extract-text-webpack-plugin
 
 /***/ }),
 
-/***/ 1266:
+/***/ 1269:
 /***/ (function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -2576,7 +2576,7 @@ webpackJsonp([34,39],{
 	        var _this = _possibleConstructorReturn(this, (App.__proto__ || Object.getPrototypeOf(App)).call(this, props));
 	
 	        _this.Template = (0, _loader2["default"])(function (a) {
-	            return __webpack_require__.e/* require */(35, function(__webpack_require__) { var __WEBPACK_AMD_REQUIRE_ARRAY__ = [__webpack_require__(1267)("./" + props.type)]; (a.apply(null, __WEBPACK_AMD_REQUIRE_ARRAY__));}.bind(this));
+	            return __webpack_require__.e/* require */(35, function(__webpack_require__) { var __WEBPACK_AMD_REQUIRE_ARRAY__ = [__webpack_require__(1270)("./" + props.type)]; (a.apply(null, __WEBPACK_AMD_REQUIRE_ARRAY__));}.bind(this));
 	        });
 	        return _this;
 	    }
@@ -2603,7 +2603,7 @@ webpackJsonp([34,39],{
 
 /***/ }),
 
-/***/ 1275:
+/***/ 1278:
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -2624,7 +2624,7 @@ webpackJsonp([34,39],{
 	
 	var _icon2 = _interopRequireDefault(_icon);
 	
-	__webpack_require__(1276);
+	__webpack_require__(1279);
 	
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
 	
@@ -2757,21 +2757,21 @@ webpackJsonp([34,39],{
 
 /***/ }),
 
-/***/ 1276:
+/***/ 1279:
 /***/ (function(module, exports) {
 
 	// removed by extract-text-webpack-plugin
 
 /***/ }),
 
-/***/ 1277:
+/***/ 1280:
 /***/ (function(module, exports) {
 
 	// removed by extract-text-webpack-plugin
 
 /***/ }),
 
-/***/ 1278:
+/***/ 1281:
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -2792,11 +2792,11 @@ webpackJsonp([34,39],{
 	
 	var _http2 = _interopRequireDefault(_http);
 	
-	var _abstract_class_picture = __webpack_require__(1264);
+	var _abstract_class_picture = __webpack_require__(1267);
 	
 	var _abstract_class_picture2 = _interopRequireDefault(_abstract_class_picture);
 	
-	var _viewData = __webpack_require__(1266);
+	var _viewData = __webpack_require__(1269);
 	
 	var _viewData2 = _interopRequireDefault(_viewData);
 	
@@ -2804,15 +2804,15 @@ webpackJsonp([34,39],{
 	
 	var _imageView2 = _interopRequireDefault(_imageView);
 	
-	var _listSlide = __webpack_require__(1275);
+	var _listSlide = __webpack_require__(1278);
 	
 	var _listSlide2 = _interopRequireDefault(_listSlide);
 	
 	var _tool = __webpack_require__(896);
 	
-	__webpack_require__(1277);
+	__webpack_require__(1280);
 	
-	var _btools = __webpack_require__(1184);
+	var _btools = __webpack_require__(1185);
 	
 	var _btools2 = _interopRequireDefault(_btools);
 	
@@ -2994,7 +2994,7 @@ webpackJsonp([34,39],{
 
 /***/ }),
 
-/***/ 1279:
+/***/ 1282:
 /***/ (function(module, exports, __webpack_require__) {
 
 	'use strict';
@@ -3015,11 +3015,11 @@ webpackJsonp([34,39],{
 	
 	var _http2 = _interopRequireDefault(_http);
 	
-	var _abstract_class_picture = __webpack_require__(1264);
+	var _abstract_class_picture = __webpack_require__(1267);
 	
 	var _abstract_class_picture2 = _interopRequireDefault(_abstract_class_picture);
 	
-	var _viewData = __webpack_require__(1266);
+	var _viewData = __webpack_require__(1269);
 	
 	var _viewData2 = _interopRequireDefault(_viewData);
 	
@@ -3027,15 +3027,15 @@ webpackJsonp([34,39],{
 	
 	var _imageView2 = _interopRequireDefault(_imageView);
 	
-	var _listSlide = __webpack_require__(1275);
+	var _listSlide = __webpack_require__(1278);
 	
 	var _listSlide2 = _interopRequireDefault(_listSlide);
 	
 	var _tool = __webpack_require__(896);
 	
-	__webpack_require__(1277);
+	__webpack_require__(1280);
 	
-	var _btools = __webpack_require__(1184);
+	var _btools = __webpack_require__(1185);
 	
 	var _btools2 = _interopRequireDefault(_btools);
 	
